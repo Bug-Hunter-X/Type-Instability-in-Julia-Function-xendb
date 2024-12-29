@@ -1,0 +1,2 @@
+# Julia Type Instability Bug
+This repository demonstrates a common performance issue in Julia related to type instability.  The `my_function` initially has an unstable return type, affecting performance. The solution shows how to address this using type annotations or other techniques to ensure consistent return type.
